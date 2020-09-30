@@ -1,0 +1,33 @@
+"row ID","District","Coal mining and dressing","Coal gas production and supply","Oil processing and refining (w/o nuclear fuel processing)","Nuclear Processing","Hydropower","Crude petroleum and natural gas extraction","Thermal power generation","Nuclear Power"
+"Row0Row0Row0Row0Row0Row0","National Total",4636883,158840,800620,5744,263453,906683,788844,5722
+"Row1Row1?Row1Row1?","Beijing",21018,7728,0,0,709,2518,6438,0
+"Row2Row2?Row30Row2?","Tianjin",106,5270,0,0,0,58299,8016,0
+"Row3Row3?Row2Row3?","Hebei",225765,8967,0,0,1839,64855,43512,0
+"Row4Row4?Row3Row4?","Shanxi",931883,2862,0,0,1475,352,42860,0
+"Row5Row5?Row4Row5?","Inner Mongolia",152354,2391,0,0,636,5078,35780,0
+"Row6Row6Row1Row5Row6?","Liaoning",175883,14803,58514,18,4359,90945,35235,0
+"Row7Row7?Row6Row7?","Jilin",86706,3139,0,0,4399,57085,17778,0
+"Row8Row8?Row7Row8?","Heilongjiang",349972,9002,0,0,2594,128460,101555,0
+"Row9Row10?Row8Row10Row1","Jiangsu",103564,8826,0,0,219,18990,50069,1171
+"Row10Row11?Row22Row11Row2","Zhejiang",5118,3601,0,0,7773,0,35505,4523
+"Row11Row12?Row23Row12?","Anhui",271651,4129,0,0,3206,0,25128,0
+"Row12Row13?Row24Row13?","Fujian",50520,1379,0,0,22917,0,8496,0
+"Row13Row14?Row25Row14?","Jiangxi",94622,2070,0,0,10704,0,11262,0
+"Row14Row15?Row9Row15?","Shandong",497080,15423,0,0,116,67134,76647,0
+"Row15Row16Row2Row10Row16?","Henan",554031,13638,25496,30,5332,81782,89130,0
+"Row16Row17?Row11Row17?","Hubei",21832,3394,0,0,25610,37112,17103,0
+"Row17Row18?Row26Row18?","Hunan",164225,2724,0,0,30050,0,13980,0
+"Row18Row20?Row27Row20?","Guangxi",17230,912,0,0,17783,0,7396,0
+"Row19Row22?Row14Row22?","Chongqing",115199,6893,0,0,7566,1182,7496,0
+"Row20Row23?Row15Row23?","Sichuan",262999,12429,0,0,49165,66900,15002,0
+"Row21Row24?Row28Row24?","Guizhou",147697,2490,0,0,7503,0,15839,0
+"Row22Row25?Row16Row25?","Yunnan",71831,2095,0,0,14482,57,9311,0
+"Row23Row26Row3Row17Row27?","Shaanxi",127228,3305,24562,2051,3679,89819,32505,0
+"Row24Row27Row4Row18Row28?","Gansu",74389,1064,31579,3645,7072,8225,12552,0
+"Row25Row28?Row19Row29?","Qinghai",7086,142,0,0,6609,16583,155,0
+"Row26Row29?Row20Row30?","Ningxia",59754,643,0,0,241,350,9891,0
+"Row27Row30?Row21Row31?","Xinjiang",47140,1828,0,0,5601,108350,16007,0
+"Row29Row9?Row31Row9?","Shanghai",0,9145,0,0,0,165,7930,0
+"Row30Row19?Row12Row19Row3","Guangdong",0,7901,0,0,20382,2410,34278,28
+"Row31Row21?Row13Row21?","Hainan",0,647,0,0,1365,32,1988,0
+"Row28?Row29Row26?","Tibet",0,0,0,0,67,0,0,0
