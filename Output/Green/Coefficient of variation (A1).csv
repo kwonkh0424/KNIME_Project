@@ -1,0 +1,32 @@
+"Region","Coal mining and production","Oil and gas extraction and refining","Thermal power","Hydropower"
+"Beijing ",16,35,47,74
+"Tianjin ",17,25,20,
+"Hebei ",6,52,4,31
+"Shanxi ",17,32,8,11
+"Inner Mongolia ",9,62,2,22
+"Liaoning ",10,22,17,9
+"Jilin ",11,37,12,17
+"Heilongjiang ",12,44,24,16
+"Shanghai",11,24,38,
+"Jiangsu ",12,27,12,67
+"Zhejiang ",43,10,8,11
+"Anhui ",8,26,8,13
+"Fujian",33,12,5,8
+"Jiangxi ",15,6,27,24
+"Shandong ",4,26,13,173
+"Henan",8,14,12,84
+"Hubei ",16,70,34,10
+"Hunan",8,31,6,3
+"Guangdong ",48,33,10,18
+"Guangxi ",29,9,7,9
+"Hainan ",21,129,6,26
+"Chongqing ",19,48,29,29
+"Sichuan ",21,45,20,3
+"Guizhou",23,97,18,19
+"Yunnan ",24,80,52,27
+"Tibet ",,,,35
+"Shaanxi ",12,,5,
+"Gansu ",7,20,22,15
+"Qinghai ",17,90,102,22
+"Ningxia",7,24,13,56
+"Xinjiang",8,42,10,32

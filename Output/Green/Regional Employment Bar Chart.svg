@@ -1,0 +1,322 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="800"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     style="display: block;" class="colored nvd3-svg"
+     contentStyleType="text/css" height="600"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.0">
+    <style type="text/css" xml:space="preserve">.nvd3 .nv-axis line, .nvd3 .nv-axis path { fill: none; shape-rendering: crispedges; }
+.nv-brush .extent, .nvd3 .background path, .nvd3 .nv-axis line, .nvd3 .nv-axis path { shape-rendering: crispedges; }
+.nv-distx, .nv-disty, .nv-noninteractive, .nvd3 .nv-axis, .nvd3.nv-pie .nv-label, .nvd3.nv-sparklineplus g.nv-hoverValue { pointer-events: none; }
+.nvd3 .nv-axis { opacity: 1; }
+.nvd3 .nv-axis path { stroke: rgb(0, 0, 0); stroke-opacity: 0.75; }
+.nvd3 .nv-axis path.domain { stroke-opacity: 0.75; }
+.nvd3 .nv-axis.nv-x path.domain { stroke-opacity: 0; }
+.nvd3 .nv-axis line { stroke: rgb(229, 229, 229); }
+.nvd3 .nv-axis .zero line, .nvd3 .nv-axis line.zero { stroke-opacity: 0.75; }
+.nvd3 .nv-axis .nv-axisMaxMin text { font-weight: 700; }
+.nvd3 .nv-discretebar .nv-groups rect, .nvd3 .nv-multibar .nv-groups rect, .nvd3 .nv-multibarHorizontal .nv-groups rect { stroke-opacity: 0; transition: fill-opacity 250ms linear 0s; }
+.nvd3 text { font: 400 12px Arial, sans-serif; }
+.nvd3 .nv-legend .nv-series { cursor: pointer; }</style><style type="text/css"
+           xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }
+.knime-label, .knime-axis-label, .knime-tick-label, .knime-label text, text.knime-axis-label, text.knime-tick-label { color: black; fill: black; font-size: 12px; }
+.knime-legend-label, text.knime-legend-label { color: black; fill: black; font-size: 12px; font-weight: normal; }</style><style type="text/css"
+           xml:space="preserve">svg.colored .nvd3 .nv-multibar .nv-groups rect, svg.colored .nvd3 .nv-multibarHorizontal .nv-groups rect, svg.colored .nvd3 .nv-discretebar .nv-groups rect { fill: inherit !important; stroke: inherit !important; }
+rect.nv-bar.positive { cursor: pointer; }</style><text x="20" y="30" id="title"
+          class="knime-title">
+        Employment By Energy Sector
+    </text>
+    <g class="nvd3 nv-wrap nv-multiBarWithLegend"
+       transform="translate(180.765625,80)">
+        <g>
+            <g class="nv-x nv-axis nvd3-svg knime-axis knime-x"
+               transform="translate(0,458)">
+                <g class="nvd3 nv-wrap nv-axis knime-axis">
+                    <g>
+                        <g class="tick zero knime-tick" style="opacity: 1;"
+                           transform="translate(309.6171875,0)">
+                            <line y2="-458" style="opacity: 1;" x2="0"
+                                  class="knime-tick-line"/>
+                            <text x="0" dy=".71em" y="15"
+                                  style="text-anchor: middle; opacity: 1; pointer-events: all;"
+                                  class="knime-tick-label"
+                                  transform="translate(0,17)">
+                                National Total
+                                <title class="knime-tooltip">
+                                    National Total
+                                </title>
+                            </text>
+                        </g>
+                        <path class="domain knime-axis-line"
+                              d="M0,0V0H619.234375V0"/>
+                        <text x="309.6171875" y="54"
+                              style="opacity: 1; pointer-events: all;"
+                              class="nv-axislabel knime-axis-label"
+                              transform="translate(0,5)" text-anchor="middle">
+                            Energy Sector
+                            <title class="knime-tooltip">
+                                Energy Sector
+                            </title>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g class="nv-y nv-axis nvd3-svg knime-axis knime-y">
+                <g class="nvd3 nv-wrap nv-axis knime-axis">
+                    <g>
+                        <g class="tick zero knime-tick" style="opacity: 1;"
+                           transform="translate(0,458)">
+                            <line class="knime-tick-line" y2="0" x2="619.234375"/>
+                            <text x="-3" dy=".32em" y="0"
+                                  style="text-anchor: end; pointer-events: all;"
+                                  class="knime-tick-label" opacity="0">
+                                0
+                            </text>
+                        </g>
+                        <g class="tick knime-tick" style="opacity: 1;"
+                           transform="translate(0,260.45350163029775)">
+                            <line class="knime-tick-line" y2="0" x2="619.234375"/>
+                            <text x="-3" dy=".32em" y="0"
+                                  style="text-anchor: end; pointer-events: all;"
+                                  class="knime-tick-label" opacity="1">
+                                2000000
+                            </text>
+                        </g>
+                        <g class="tick knime-tick" style="opacity: 1;"
+                           transform="translate(0,62.90700326059552)">
+                            <line class="knime-tick-line" y2="0" x2="619.234375"/>
+                            <text x="-3" dy=".32em" y="0"
+                                  style="text-anchor: end; pointer-events: all;"
+                                  class="knime-tick-label" opacity="1">
+                                4000000
+                            </text>
+                        </g>
+                        <path class="domain knime-axis-line" d="M0,0H0V458H0"/>
+                        <text x="-229" y="-87.046875"
+                              style="text-anchor: middle; pointer-events: all;"
+                              class="nv-axislabel knime-axis-label"
+                              transform="rotate(-90)">
+                            Number of Employees
+                            <title class="knime-tooltip">
+                                Number of Employees
+                            </title>
+                        </text>
+                    </g>
+                    <g class="nv-axisMaxMin nv-axisMaxMin-y nv-axisMin-y knime-axis-max-min"
+                       transform="translate(0,458)">
+                        <text x="-3" dy=".32em" y="0"
+                              style="opacity: 1; pointer-events: all;"
+                              class="knime-tick-label" text-anchor="end">
+                            0
+                        </text>
+                    </g>
+                    <g class="nv-axisMaxMin nv-axisMaxMin-y nv-axisMax-y knime-axis-max-min"
+                       transform="translate(0,0)">
+                        <text x="-3" dy=".32em" y="0"
+                              style="opacity: 1; pointer-events: all;"
+                              class="knime-tick-label" text-anchor="end">
+                            4636883
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g class="nv-barsWrap nvd3-svg">
+                <g class="nvd3 nv-wrap nv-multibar" transform="translate(0,0)">
+                    <defs>
+                        <clipPath id="nv-edge-clip-7027">
+                            <rect width="619.234375" height="458"/>
+                        </clipPath>
+                    </defs>
+                    <g clip-path="url(#nv-edge-clip-7027)">
+                        <g class="nv-groups">
+                            <g class="nv-group nv-series-0"
+                               style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(188, 128, 189); stroke: rgb(188, 128, 189);">
+                                <rect x="0" y="0"
+                                      transform="translate(56.29403409090909,0)"
+                                      width="63.33078835227273"
+                                      style="fill: rgb(188, 128, 189); stroke: rgb(188, 128, 189);"
+                                      class="nv-bar positive" height="458"/>
+                            </g>
+                            <g class="nv-group nv-series-1"
+                               style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(251, 128, 114); stroke: rgb(251, 128, 114);">
+                                <rect x="63.33078835227273"
+                                      y="442.3108570994782"
+                                      transform="translate(56.29403409090909,0)"
+                                      width="63.33078835227273"
+                                      style="fill: rgb(251, 128, 114); stroke: rgb(251, 128, 114);"
+                                      class="nv-bar positive"
+                                      height="15.689142900521801"/>
+                            </g>
+                            <g class="nv-group nv-series-2"
+                               style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(190, 186, 218); stroke: rgb(190, 186, 218);">
+                                <rect x="126.66157670454545"
+                                      y="378.92016123762454"
+                                      transform="translate(56.29403409090909,0)"
+                                      width="63.33078835227273"
+                                      style="fill: rgb(190, 186, 218); stroke: rgb(190, 186, 218);"
+                                      class="nv-bar positive"
+                                      height="79.07983876237546"/>
+                            </g>
+                            <g class="nv-group nv-series-3"
+                               style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(141, 211, 199); stroke: rgb(141, 211, 199);">
+                                <rect x="189.9923650568182" y="457"
+                                      transform="translate(56.29403409090909,0)"
+                                      width="63.33078835227273"
+                                      style="fill: rgb(141, 211, 199); stroke: rgb(141, 211, 199);"
+                                      class="nv-bar positive" height="1"/>
+                            </g>
+                            <g class="nv-group nv-series-4"
+                               style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(128, 177, 211); stroke: rgb(128, 177, 211);">
+                                <rect x="253.3231534090909"
+                                      y="431.9778911825034"
+                                      transform="translate(56.29403409090909,0)"
+                                      width="63.33078835227273"
+                                      style="fill: rgb(128, 177, 211); stroke: rgb(128, 177, 211);"
+                                      class="nv-bar positive"
+                                      height="26.022108817496587"/>
+                            </g>
+                            <g class="nv-group nv-series-5"
+                               style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(179, 222, 105); stroke: rgb(179, 222, 105);">
+                                <rect x="316.6539417613636"
+                                      y="368.44397410933163"
+                                      transform="translate(56.29403409090909,0)"
+                                      width="63.33078835227273"
+                                      style="fill: rgb(179, 222, 105); stroke: rgb(179, 222, 105);"
+                                      class="nv-bar positive"
+                                      height="89.55602589066837"/>
+                            </g>
+                            <g class="nv-group nv-series-6"
+                               style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(255, 237, 111); stroke: rgb(255, 237, 111);">
+                                <rect x="379.9847301136364"
+                                      y="380.0833150200253"
+                                      transform="translate(56.29403409090909,0)"
+                                      width="63.33078835227273"
+                                      style="fill: rgb(255, 237, 111); stroke: rgb(255, 237, 111);"
+                                      class="nv-bar positive"
+                                      height="77.91668497997472"/>
+                            </g>
+                            <g class="nv-group nv-series-7"
+                               style="stroke-opacity: 1; fill-opacity: 0.75; fill: rgb(253, 180, 98); stroke: rgb(253, 180, 98);">
+                                <rect x="443.31551846590907" y="457"
+                                      transform="translate(56.29403409090909,0)"
+                                      width="63.33078835227273"
+                                      style="fill: rgb(253, 180, 98); stroke: rgb(253, 180, 98);"
+                                      class="nv-bar positive" height="1"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g class="nv-legendWrap nvd3-svg knime-legend"
+               transform="translate(0,-80)">
+                <g class="nvd3 nv-legend" transform="translate(0,20)">
+                    <g transform="translate(6.9921875,20)">
+                        <g class="nv-series" transform="translate(0,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(188, 128, 189); fill-opacity: 1; stroke: rgb(188, 128, 189);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Coal mining and dres...
+                            </text>
+                            <title>
+                                Coal mining and dressing
+                            </title>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(155.3984375,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(251, 128, 114); fill-opacity: 1; stroke: rgb(251, 128, 114);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Coal gas production ...
+                            </text>
+                            <title>
+                                Coal gas production and supply
+                            </title>
+                        </g>
+                        <g class="nv-series" transform="translate(313.46875,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(190, 186, 218); fill-opacity: 1; stroke: rgb(190, 186, 218);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Oil processing and r...
+                            </text>
+                            <title>
+                                Oil processing and refining (w/o nuclear fuel
+                                processing)
+                            </title>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(476.197265625,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(141, 211, 199); fill-opacity: 1; stroke: rgb(141, 211, 199);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Nuclear Processing
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(0,25)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(128, 177, 211); fill-opacity: 1; stroke: rgb(128, 177, 211);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Hydropower
+                            </text>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(155.3984375,25)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(179, 222, 105); fill-opacity: 1; stroke: rgb(179, 222, 105);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Crude petroleum and ...
+                            </text>
+                            <title>
+                                Crude petroleum and natural gas extraction
+                            </title>
+                        </g>
+                        <g class="nv-series" transform="translate(313.46875,25)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(255, 237, 111); fill-opacity: 1; stroke: rgb(255, 237, 111);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Thermal power genera...
+                            </text>
+                            <title>
+                                Thermal power generation
+                            </title>
+                        </g>
+                        <g class="nv-series"
+                           transform="translate(476.197265625,25)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(253, 180, 98); fill-opacity: 1; stroke: rgb(253, 180, 98);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Nuclear Power
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g class="nv-controlsWrap"/>
+            <g class="nv-interactive"/>
+        </g>
+    </g>
+</svg>
