@@ -1,0 +1,626 @@
+﻿District,Total Population at year-end(10000 persons),Land Area(10000 sq.km),Land Area(Completed Construction Area)(sq.km),Gross Domestic Product(100 million yuan)
+Beijing,"1,333.40",1.6411,"1,385.58","21,330.83"
+Tianjin,"1,016.66",1.1917,797.1,"15,726.93"
+Districts under Bazhong City,137.7,0.256,30,158.76
+Hebei province,"7,592.74",,"1,833.17","29,421.15"
+Districts under Guigang City,197.4,0.3548,69,354.96
+Shijiazhuang City,"1,024.90",1.3109,,"5,170.27"
+Districts under Bozhou City,167.1,0.2263,54,293.38
+Tangshan City,753.2,1.3472,,"6,225.30"
+Districts under Dingxi City,45.9,0.3646,23,65.78
+Qinhuangdao City,295.1,0.7802,,"1,200.02"
+Districts under Fuyang City,224,0.1924,112,420.41
+Handan City,"1,029.50",1.2065,,"3,080.01"
+Districts under Longnan City,56.3,0.4683,14,84.9
+Xingtai City,772.9,1.2433,,"1,646.94"
+Districts under Liuan City,189.1,0.3577,72,353.95
+Baoding City,"1,196.60",2.2185,,"3,035.20"
+Districts under Heihe City,21.5,1.4444,19,28.98
+Zhangjiakou City,468.6,3.6873,,"1,348.97"
+Districts under Suihua City,84.3,0.2756,35,143.18
+Chengde City,380.7,3.949,,"1,342.55"
+Districts under Shangqiu City,180.5,0.1697,63,351.59
+Cangzhou City,768.4,1.4035,,"3,133.38"
+Districts under Yichun City,113.5,0.2532,68,209.84
+Langfang City,450.4,0.6382,,"2,175.96"
+Districts under Hezhou City,117.1,0.5517,24,238.44
+Hengshui City,452.6,0.8815,,"1,149.13"
+Districts under Jixi City,84.5,0.23,79,164.11
+Shanxi province,"3,522.18",,"1,097.36","12,761.49"
+Districts under Suining City,152.3,0.1876,78,326.27
+Taiyuan City,369.7,0.6988,,"2,531.09"
+Districts under Guang'an City,127.3,0.1534,48,270.27
+Datong City,339.2,1.4176,,"1,001.73"
+Districts under Ankang City,102.6,0.3646,40,210.39
+Yangquan City,133.2,0.457,,616.62
+Districts under Baoshan City,92.6,0.5011,31,190.02
+Changzhi City,339.2,1.3896,,"1,331.14"
+Districts under Dazhou City,181,0.3134,108,416.54
+Jincheng City,218.9,0.9425,,"1,035.82"
+Districts under Guyuan City,46.6,0.4489,40,86.16
+Shuozhou City,175.4,1.0674,,"1,003.41"
+Districts under Hegang City,66,0.4551,53,130.15
+Jinzhong City,330.5,1.6392,,"1,041.30"
+Districts under Yichun City,78,1.9608,171,158.97
+Yuncheng City,525.2,1.4181,,"1,201.72"
+Districts under Laibin City,112.8,0.4363,37,250.4
+Xinzhou City,312.5,2.5152,,680.34
+Districts under Xinzhou City,55.7,0.1987,36,111.18
+Linfen City,429,2.0275,,"1,213.24"
+Districts under Tianshui City,130.1,0.5858,46,308.57
+Luliang City,390.7,2.1239,,"1,101.35"
+Districts under Shangluo City,56.4,0.2672,26,117.65
+Inner Mongolia province,"2,458.33",118.3,"1,184.81","17,770.19"
+Districts under Anshun City,89.2,0.1704,48,201.39
+Hohhot City,237.9,1.7186,230,"2,894.05"
+Districts under Nanchong City,197.1,0.2526,113,510.54
+Baotou City,223.7,2.7768,190.46,"3,636.31"
+Districts under Suzhou City,186.2,0.2907,72,480.77
+Wuhai City,55.4,0.1754,62.92,601.02
+Districts under Zhaotong City,87.2,0.2163,40,203.34
+Chifeng City,465.8,9.0021,104.9,"1,778.37"
+Districts under Shantou City,539.1,0.1956,250,"1,701.81"
+Tongliao City,319.4,6.9625,78.2,"1,886.80"
+Districts under Wuwei City,102.3,0.5081,32,258.67
+Erdos City,156,8.6752,113.23,"4,055.49"
+Districts under Pingliang City,51.3,0.1936,36,117.58
+Hulunbeir City,265.9,25.2777,152.6,"1,522.20"
+Districts under Xiaogan City,96.9,0.102,70,248.7
+Bayannaoer City,178.6,6.514,51,867.46
+Districts under Fuzhou City,119.9,0.2125,58,323.38
+Ulanchabu City,277,5.45,85,873.73
+Districts under Neijiang City,143,0.1566,66,422.45
+Liaoning province,"4,244.23",,"2,422.02","28,626.58"
+Districts under Huainan City,182.7,0.1736,106,565.93
+Shenyang City,730.8,1.286,465,"7,098.71"
+Districts under Lincang City,32.3,0.2557,18,76.5
+Dalian City,594.3,1.2574,395.5,"7,655.58"
+Districts under Shuangyashan City,50.1,0.176,58,127.77
+Anshan City,348.2,0.9255,169.64,"2,385.90"
+Districts under Xinyang City,151.2,0.3604,89,465.7
+Fushun City,217.4,1.1272,136.19,"1,276.58"
+Districts under Guangyuan City,93.9,0.458,54,267.35
+Benxi City,152,0.8411,109,"1,171.25"
+Districts under Heze City,155.6,0.1415,95,488.77
+Dandong City,239.5,1.529,53.4,"1,022.60"
+Districts under He'nan province,"2,254.40",1.5882,"1,877.00","11,124.36"
+Jinzhou City,305.3,1.0047,77.1,"1,364.00"
+Districts under Xuancheng City,86.6,0.2585,50,251.68
+Yingkou City,233.3,0.5242,109.55,"1,546.08"
+Districts under Weinan City,96.3,0.1264,71,290.8
+Fuxin City,191,1.0355,76.5,606.16
+Districts under Gansu province,852.8,4.089,678,"3,710.55"
+Liaoyang City,179.9,0.4736,104.35,"1,014.62"
+Districts under Dandong City,78.4,0.0941,53,230.45
+Panjin City,129.2,0.4065,73,"1,303.95"
+Districts under Nanyang City,186.9,0.2135,149,635.47
+Tieling City,302,1.2985,57,867.29
+Districts under Luliang City,27.7,0.1339,24,69.91
+Chaoyang City,340.6,1.9698,50,993.52
+Districts under Yuncheng City,69.5,0.1215,52,204.46
+Huludao City,280.7,1.0414,85.2,721.55
+Districts under Yongzhou City,115.7,0.3181,60,377.23
+Jilin province,"2,671.33",,"1,362.79","13,803.14"
+Districts under Xingtai City,87.7,0.0425,90,273.53
+Changchun City,754.6,2.0594,,"5,342.43"
+Districts under Yaan City,62.8,0.1681,31,185.99
+Jilin city,427.7,2.7711,,"2,379.56"
+Districts under Linfen City,80.6,0.1316,54,249.5
+Siping City,328.1,1.408,,"1,210.32"
+Districts under Yulin City,107.6,0.1265,67,349.64
+Liaoyuan City,121.8,0.514,,690.31
+Districts under Sichuan province,"2,684.10",3.6735,"1,859.00","14,959.03"
+Tonghua City,222.2,1.5612,,"1,008.50"
+Districts under Qitaihe City,53.9,0.3646,71,157.67
+Baishan City,126.3,1.7505,,675.29
+Districts under Zhangye City,50.7,0.424,64,148.16
+Songyuan City,278.5,2.1089,,"1,596.29"
+Districts under Anhui province,"2,008.70",2.7059,"1,665.00","10,964.39"
+Baicheng City,197.8,2.5832,,686.18
+Districts under Huludao City,99,0.2347,76,337.69
+Heilongjiang province,"3,746.96",45.2538,"1,785.08","15,039.38"
+Districts under Zhoukou City,59.7,0.0333,66,187.76
+Harbin City,987.3,5.3068,400.58,"5,340.07"
+Districts under Ziyang City,110.6,0.1633,45,386.97
+Qiqihar City,553.2,4.2469,139.63,"1,209.34"
+Districts under Jieyang City,208.2,0.1031,120,813.04
+Jixi City,183.6,2.2531,79.23,516.01
+Districts under Maoming City,285,0.2715,120,"1,175.63"
+Hegang City,107,1.4657,53.22,259.46
+Districts under Qinzhou City,147,0.4852,89,547.51
+Shuangyashan City,149,2.2619,58,432.68
+Districts under Hechi City,33.8,0.2346,22,98.84
+Daqing City,276,2.1219,244.79,"4,077.51"
+Districts under Zhumadian City,83.3,0.1365,71,284.3
+Yichun City,122,3.28,167.37,256.03
+Districts under Ganzhou City,153.7,0.2373,137,584.48
+Jiamusi City,241.4,3.2704,96.98,765.98
+Districts under Yiyang City,136.2,0.1851,71,513.49
+Qitaihe City,88.2,0.6221,71.73,214.26
+Districts under Guangxi province,"1,465.20",4.2263,"1,075.00","8,236.52"
+Mudanjiang City,264,3.8827,81.4,"1,264.02"
+Districts under Chongqing,"1,943.90",2.959,"1,231.00","11,452.69"
+Heihe City,170.5,6.824,20,421.36
+Districts under Mudanjiang City,88.9,0.236,81,318.6
+Suihua City,553.2,3.4873,37,"1,190.25"
+Districts under Ji'an City,57.7,0.134,53,193.35
+Shanghai,"1,438.69",0.6341,998.75,"23,567.70"
+Districts under Suqian City,172,0.2153,79,691.56
+Jiangsu province,"7,684.69",,"4,019.83","65,088.32"
+Districts under Guizhou province,661.2,1.1275,577,"3,330.60"
+Nanjing City,648.7,0.6587,734.34,"8,820.75"
+Districts under Jinzhong City,61.2,0.1318,53,208.26
+Wuxi City,477.1,0.4627,522,"8,205.31"
+Districts under Meizhou City,95.8,0.3047,53,351.21
+Xuzhou City,"1,023.50",1.1765,432.79,"4,963.91"
+Districts under Shanxi province,"1,014.50",1.5991,875,"5,497.20"
+Changzhou City,368.6,0.4372,253.86,"4,901.87"
+Districts under Liaocheng City,120.8,0.171,91,462.85
+Suzhou City,661.1,0.8657,735.15,"13,760.89"
+Districts under Zaozhuang City,232,0.3069,148,998.38
+Nantong City,767.6,1.0549,329.26,"5,652.69"
+Districts under Meishan City,87.6,0.133,45,323.07
+Lianyungang City,526.5,0.7615,275,"1,965.89"
+Districts under Chaozhou City,163.5,0.1414,42,669.62
+Huaian City,560.3,1.003,255.38,"2,455.39"
+Districts under Wuzhong City,40.4,0.1107,50,133.58
+Yancheng City,828.5,1.6931,322.43,"3,835.62"
+Districts under Baicheng City,49.8,0.2569,49,172.21
+Yangzhou City,461.3,0.6591,232.1,"3,697.91"
+Districts under Chongzuo City,37.2,0.2917,28,122.64
+Zhenjiang City,272.1,0.384,204.79,"3,252.44"
+Districts under Hanzhong City,57.2,0.0556,36,203.89
+Taizhou City,508.5,0.5787,195.97,"3,370.89"
+Districts under Qiqihar City,138.2,0.4365,140,573.15
+Suqian City,580.7,0.8524,212.19,"1,930.68"
+Districts under Zhongwei City,40.6,0.6877,39,137.62
+Zhejiang province,"4,859.18",,"2,489.22","40,173.03"
+Districts under Luohe City,134.2,0.1116,73,561.4
+Hangzhou City,715.8,1.6596,,"9,206.16"
+Districts under Shaoyang City,69.7,0.0436,58,262.25
+Ningbo City,583.8,0.9816,,"7,610.28"
+Districts under Xianning City,60.9,0.1503,73,225.15
+Wenzhou City,813.7,1.2065,,"4,303.05"
+Districts under Shaanxi province,"1,310.70",2.8887,939,"8,064.33"
+Jiaxing City,348.1,0.3915,,"3,352.60"
+Districts under Tieling City,43.8,0.0659,50,154.1
+Huzhou City,263.8,0.582,,"1,956.00"
+Districts under Luzhou City,149.9,0.2133,113,651.62
+Shaoxing City,443,0.8279,,"4,265.88"
+Districts under Siping City,58.7,0.1085,55,218.83
+Jinhua City,475.1,1.0942,,"3,208.20"
+Districts under Chaoyang City,61.2,0.1137,57,231.18
+Quzhou City,255.7,0.8845,,"1,115.10"
+District under Datong City,177.5,0.208,125,800.01
+Zhoushan City,97.5,0.1455,,"1,015.26"
+Districts under Anyang City,115.5,0.0534,110,486.62
+Taizhou City,597.1,0.9411,,"3,387.38"
+Districts under Handan City,174.1,0.0463,124,793.73
+Lishui City,265.7,1.7298,,"1,051.75"
+Districts under Tongchuan City,74.8,0.2406,44,297.19
+Anhui province,"6,935.83",,"1,835.15","20,848.75"
+Districts under Pingdingshan City,110,0.0443,73,466.53
+Hefei City,712.8,1.1445,,"5,180.56"
+Districts under Jiaozuo City,98.5,0.0546,114,411.99
+Wuhu City,384.5,0.6026,,"2,309.55"
+Districts under Huaian City,291.5,0.3203,150,"1,462.04"
+Bengbu City,371.1,0.5951,,"1,151.19"
+Districts under Chizhou City,66.3,0.2432,37,263.65
+Huainan City,243.4,0.2584,,789.32
+Districts under Jiangxi province,"1,031.20",1.3584,969,"6,485.96"
+Maanshan City,227.2,0.4049,,"1,333.12"
+Districts under Zigong City,151.3,0.1434,109,693.09
+Huaibei City,215.3,0.2741,,759.64
+Districts under Lianyungang City,219.1,0.3012,160,"1,072.34"
+Tongling City,73.8,0.1201,,716.31
+Districts under Heilongjiang province,"1,353.70",6.9858,"1,450.00","9,041.59"
+Anqing City,620.9,1.5402,,"1,544.32"
+Districts under Zhangjiajie City,53.2,0.2735,33,208.39
+Huangshan City,147.7,0.9807,,507.17
+Districts under Heibei province,"1,542.20",1.0552,"1,357.00","10,546.45"
+Chuzhou City,449.6,1.3516,,"1,214.40"
+Districts under Jingzhou City,111.3,0.1689,74,494.05
+Fuyang City,"1,051.40",0.9776,,"1,188.97"
+Districts under Yibin City,127.1,0.1835,80,587.18
+Suzhou City,642.3,0.9939,,"1,140.53"
+Districts under Shanwei City,52.7,0.0421,16,212.61
+Chaohu City,,,,
+Districts under Qingyuan City,135.4,0.365,373,639.2
+Liuan City,720.5,1.8399,,"1,095.81"
+Districts under Fuxin City,77.2,0.049,77,336.26
+Bozhou City,634.4,0.8521,,883.63
+Districts under Ningxia province,279.3,1.7046,377,"1,533.31"
+Chizhou City,160.6,0.8272,,517.17
+Districts under Putian City,228.4,0.229,57,"1,226.15"
+Xuancheng City,279.8,1.2313,,917.63
+Districts under Linyi City,258.5,0.2294,200,"1,460.36"
+Fujian province,"3,695.79",,"1,326.42","24,055.76"
+Districts under Shangrao City,42,0.037,50,176.1
+Fuzhou City,674.9,1.3066,,"5,169.16"
+Districts under Leshan City,116.3,0.2506,73,585.2
+Xiamen City,203.4,0.1573,,"3,273.58"
+Districts under Baoding City,110.5,0.0327,146,552.59
+Putian City,341.2,0.4131,,"1,502.07"
+Districts under Zhangjiakou City,90.7,0.0376,86,450.18
+Sanming City,284,2.2965,,"1,621.21"
+Districts under Jiamusi City,79,0.1875,97,387.01
+Quanzhou City,716.2,1.1015,,"5,733.36"
+Districts under Chengde City,59.3,0.1253,115,279.91
+Zhangzhou City,497.4,1.288,,"2,506.36"
+Districts under Taian City,161,0.2087,127,896.83
+Nanping City,319.2,2.628,,"1,232.56"
+Districts under Laiwu City,127.8,0.2246,120,687.6
+Longyan City,307.1,1.9063,,"1,621.21"
+Districts under Changzhi City,74,0.0334,59,364.33
+Ningde City,352.2,1.3452,,"1,376.09"
+Districts under Liaoning province,"1,917.60",1.8197,"1,953.00","16,370.72"
+Jiangxi province,"4,923.27",,"1,201.26","15,714.63"
+Districts under Qingyang City,38,0.0996,24,170.3
+Nanchang City,517.7,0.7402,262,"3,667.96"
+Districts under Huaibei City,104.9,0.076,80,556.13
+Jingdezhen City,167.8,0.5261,78.68,738.21
+Districts under Zhengzhou City,533.2,0.101,413,"3,702.56"
+Pingxiang City,198.2,0.3831,50.87,864.95
+Districts under Shandong province,"3,133.90",4.2529,"3,257.00","29,193.88"
+Jiujiang City,513.1,1.9078,102.82,"1,779.96"
+Districts under Hengshui City,54.3,0.0603,46,259.89
+Xinyu City,122.3,0.3178,74,900.27
+Districts under Yunnan province,643.1,2.2251,639,"4,643.03"
+Yingtan City,126.9,0.356,33.5,606.98
+Districts under Shijiazhuang City,408,0.2243,264,"2,734.74"
+Ganzhou City,954.2,3.9446,136.8,"1,843.59"
+Districts under Xinxiang City,114.4,0.0431,113,624.55
+Ji'an City,526.7,2.5283,53.05,"1,242.11"
+Districts under Bengbu City,112.4,0.0611,127,624.52
+Yichun City,595.6,1.8668,68,"1,522.99"
+Districts under Yangquan City,70.9,0.0652,55,366.26
+Fuzhou City,427.5,1.8799,58.4,"1,036.77"
+Districts under Jiuquan City,41.3,0.3386,49,195.86
+Shangrao City,773.1,2.2791,49.76,"1,550.24"
+Districts under Hebi City,63.2,0.0679,64,323.76
+Shandong province,"9,747.10",,"4,400.09","59,426.59"
+Districts under Harbin City,473.8,0.7086,401,"3,386.69"
+Ji'nan City,621.6,0.7998,,"5,770.60"
+Districts under Puyang City,69.8,0.0263,54,367.47
+Qingdao City,780.6,1.1282,,"8,692.10"
+Districts under Ningde City,47.9,0.1537,27,239.4
+Zibo City,428,0.5965,,"4,029.77"
+Districts under Liaoyang City,87.6,0.1081,104,487.18
+Zaozhuang City,401.3,0.4564,,"1,980.13"
+Districts under Bayannaoer City,53.3,0.2354,52,273.33
+Dongying City,189.1,0.8243,,"3,430.49"
+Districts under Quzhou City,84.1,0.2354,69,467.68
+Yantai City,653.4,1.3852,,"6,002.08"
+Districts under Zhaoqing City,52.7,0.0706,95,271.94
+Weifang City,888.3,1.6143,,"4,786.00"
+Districts under Xi'an City,587.2,0.3581,440,"4,531.82"
+Jining City,860.1,1.1311,,"3,800.06"
+Districts under Mianyang City,126.9,0.157,118,764.08
+Taian City,562.3,0.7762,,"3,002.19"
+Districts under Anqing City,73.5,0.081,85,404.53
+Weihai City,254.8,0.5797,,"2,790.34"
+Districts under Shaoguan City,92.7,0.2871,96,531.45
+Rizhao City,293.9,0.5359,,"1,611.87"
+Districts under Jilin province,862,1.7381,"1,076.00","7,151.49"
+Laiwu City,127.8,0.2246,,687.6
+Districts under Hu'nan province,"1,393.30",1.9597,"1,293.00","12,528.22"
+Linyi City,"1,113.20",1.7191,,"3,569.80"
+Districts under Yangjiang City,69.5,0.078,51,380.86
+Dezhou City,583.2,1.0358,,"2,596.08"
+Districts under Chifeng City,125.8,0.7077,104,762.17
+Liaocheng City,612.1,0.8984,,"2,516.40"
+Districts under Hainani province,223.9,0.4216,199,"1,493.96"
+Binzhou City,386.7,0.966,,"2,276.71"
+Districts under Chuzhou City,54.2,0.1406,83,286.4
+Heze City,990.6,1.2155,,"2,222.19"
+Districts under Zunyi City,89.7,0.1316,86,515.99
+He'nang province,"11,101.65",,"2,374.67","34,938.24"
+Districts under Nanping City,50.3,0.2653,30,263.46
+Zhengzhou City,937.8,0.7446,,"6,776.99"
+Districts under Yan'an City,46.5,0.3556,36,241.33
+Kaifeng City,553.8,0.6253,,"1,492.06"
+Districts under Huanggang City,35.1,0.0362,47,173.96
+Luoyang City,696.2,1.5236,,"3,284.57"
+Districts under Hubei province,"1,604.50",2.4831,"1,484.00","14,960.77"
+Pingdingshan City,557.1,0.7882,,"1,637.17"
+Districts under Baise City,35.4,0.3718,41,176.19
+Anyang City,611.4,0.7352,,"1,791.81"
+Districts under Yancheng City,169.3,0.2123,111,"1,095.68"
+Hebi City,166.9,0.2182,,682.2
+Districts under Lanzhou City,240.5,0.1632,221,"1,654.20"
+Xinxiang City,630.5,0.8666,,"1,918.00"
+Districts under Luoyang City,195.5,0.0879,194,"1,301.83"
+Jiaozuo City,369.6,0.4071,,"1,844.31"
+Districts under Shiyan City,117.9,0.5056,96,723.58
+Puyang City,424.5,0.4188,,"1,253.61"
+Districts under Huangshan City,44.3,0.2342,63,231.62
+Xuchang City,499.8,0.4979,,"2,087.23"
+Districts under Xiangfan City,227.5,0.3671,157,"1,570.73"
+Luohe City,266.7,0.2692,,941.16
+Districts under Baoji City,142.2,0.3625,87,914.79
+Sanmenxia City,227.8,1.0496,,"1,240.06"
+Districts under Haikou City,165.3,0.2284,152,"1,091.70"
+Nanyang City,"1,181.40",2.6509,,"2,675.57"
+Districts under Fushun City,142.6,0.1416,136,923.94
+Shangqiu City,949.7,1.0704,,"1,697.64"
+Districts under Ezhou City,110.2,0.1594,64,686.64
+Xinyang City,890.4,1.8757,,"1,757.34"
+Districts under Simao City,22.7,0.4093,25,109.29
+Zhoukou City,"1,236.90",1.1961,,"1,992.08"
+Districts under Zhanjiang City,161.5,0.1703,108,"1,077.32"
+Zhumadian City,920.6,1.5083,,"1,691.30"
+Districts under Pingxiang City,88.1,0.107,51,534.61
+Hubei province,"6,162.33",,"2,077.64","27,379.22"
+Districts under Ulanchabu City,31.6,0.0527,60,162.38
+Wuhan City,827.3,0.8569,,"10,069.48"
+Districts under Binzhou City,106.2,0.3258,112,668.19
+Huangshi City,265.1,0.4583,,"1,218.56"
+Districts under Baiyin City,49.2,0.3478,61,272.95
+Shiyan City,347,2.368,,"1,200.82"
+Districts under Kaifeng City,87,0.0565,113,540.27
+Yichang City,400.4,2.1084,,"3,132.21"
+Districts under Baishan City,57.3,0.2736,56,332.21
+Xiangfan City,595.5,1.9727,,"3,129.26"
+Districts under Jiangsu province,"3,361.10",3.5401,"3,027.00","38,359.17"
+Ezhou City,110.2,0.1594,,686.64
+Districts under Jinhua City,95.1,0.2049,78,605.98
+Jingmen City,300.3,1.2404,,"1,310.59"
+Districts under Dezhou City,121,0.1751,145,812.17
+Xiaogan City,525.7,0.891,,"1,354.72"
+Districts under Qinghai province,123.4,0.356,101,848.47
+Jingzhou City,658.5,1.4099,,"1,480.49"
+Districts under Wuzhou City,77.9,0.1793,54,500.06
+Huanggang City,741.4,1.7457,,"1,459.15"
+Districts under Deyang City,69.3,0.0648,72,437.1
+Xianning City,296.5,0.9751,,964.25
+Districts under Sanmenxia City,30.1,0.0185,30,166
+Suizhou City,257.1,0.9636,,723.45
+Districts under Weifang City,186,0.2638,176,"1,395.00"
+Hu'nan province,"7,202.29",,"1,540.21","27,037.32"
+Districts under Jilin city,181.9,0.3774,259,"1,372.00"
+Changsha City,671.4,1.1816,294.39,"7,824.81"
+Districts under Taiyuan City,287.6,0.15,330,"2,340.95"
+Zhuzhou City,396.1,1.1272,135.25,"2,161.01"
+Districts under Xuchang City,41.4,0.0097,88,246.55
+Xiangtan City,291.5,0.5008,79.78,"1,570.56"
+Districts under Nanning City,284.4,0.6569,285,"2,331.44"
+Hengyang City,791.5,1.5303,123.54,"2,396.55"
+Districts under Xuzhou City,331.5,0.3063,255,"2,792.94"
+Shaoyang City,819,2.083,58,"1,261.61"
+Districts under Guilin City,77.6,0.0565,71,515.14
+Yueyang City,563.3,1.4858,93,"2,669.34"
+Districts under Anshan City,151.2,0.0792,170,"1,123.83"
+Changde City,608.7,1.891,87.1,"2,514.15"
+Districts under Jinzhou City,93.7,0.0825,77,647.64
+Zhangjiajie City,172.1,0.9516,32.96,410.02
+Districts under Jingmen City,67.6,0.2391,55,444.24
+Yiyang City,483.2,1.232,71,"1,253.15"
+Districts under Guiyang City,230.7,0.2525,320,"1,868.74"
+Chenzhou City,518.8,1.9342,76.63,"1,872.58"
+Districts under Taizhou City,158.5,0.1536,128,"1,233.21"
+Yongzhou City,630.9,2.226,60.04,"1,301.45"
+Districts under Huangshi City,84,0.0237,88,591.72
+Huaihua City,525.5,2.7753,62,"1,181.24"
+Districts under Jincheng City,37.2,0.0143,45,229.88
+Loudi City,444.9,0.8109,47.15,"1,210.86"
+Districts under Fujian province,971.2,1.4924,"1,031.00","10,345.66"
+Guangdong province,"8,886.88",,"5,398.07","67,809.85"
+Districts under Hengyang City,93.8,0.0697,159,681.47
+Guangzhou City,842.4,0.7434,,"16,706.87"
+Districts under Suizhou City,50.1,0.1322,45,332.88
+Shaoguan City,329.1,1.8412,,"1,113.49"
+Districts under Sanya City,58.6,0.1919,47,402.26
+Shenzhen City,332.2,0.1997,,"16,001.82"
+Districts under Qujing City,72.7,0.1553,66,523.1
+Zhuhai City,110.2,0.1724,,"1,867.21"
+Districts under Chenzhou City,75.5,0.2248,72,547.82
+Shantou City,546.6,0.2064,,"1,716.51"
+Districts under Zhejiang province,"1,770.50",2.2449,"1,776.00","21,815.19"
+Foshan City,385.6,0.3798,,"7,441.60"
+Districts under Huzhou City,110.7,0.1565,99,865.5
+Jiangmen City,393.4,0.9505,,"2,082.76"
+Districts under Jiangmen City,139.9,0.1786,159,"1,139.21"
+Zhanjiang City,819,1.3261,,"2,258.99"
+Districts under Yichuan City,106.4,0.2311,149,841.65
+Maoming City,772.4,1.1427,,"2,349.03"
+Districts under Lishui City,40,0.1502,34,269.29
+Zhaoqing City,433.7,1.4891,,"1,845.06"
+Districts under Tangshan City,329.5,0.3874,249,"3,172.78"
+Huizhou City,348.5,1.1346,,"3,000.37"
+Districts under Taizhou City,163.8,0.1567,99,"1,408.22"
+Meizhou City,528.6,1.5865,,885.84
+Districts under Lijiang City,15.3,0.1255,23,89.11
+Shanwei City,359.1,0.4865,,716.99
+Districts under Urumqi City,260.6,0.9576,412,"2,440.45"
+Heyuan City,365.3,1.5654,,768.95
+Districts under Langfang City,84.3,0.0292,66,656.47
+Yangjiang City,289.4,0.7956,,"1,168.55"
+Districts under Shuozhou City,72.5,0.4107,42,552.46
+Qingyuan City,412.3,1.9036,,"1,197.74"
+Districts under Xinyu City,88.7,0.1789,74,708.65
+Dongguan City,191.4,0.246,,"5,881.32"
+Districts under Loudi City,48.5,0.0429,47,350.82
+Zhongshan City,156.1,0.1784,,"2,823.01"
+Districts under Xianyang City,92,0.0528,89,741.44
+Chaozhou City,268.8,0.3146,,850.22
+Districts under Shenyang City,528.4,0.3471,465,"5,750.76"
+Jieyang City,694.2,0.524,,"1,780.44"
+Districts under Huaihua City,37.4,0.0666,62,264.01
+Yunfu City,294.2,0.7785,,664
+Districts under Qinhuangdao City,89.6,0.0513,103,731.43
+Guangxi province,"5,475.49",,"1,192.82","15,672.89"
+Districts under Guangdong province,"4,070.30",4.1508,"5,095.00","62,484.48"
+Nanning City,729.7,2.2244,,"3,148.30"
+Districts under Xining City,94.1,0.051,90,775.08
+Liuzhou City,377.9,1.8597,,"2,208.51"
+Districts under Zhuzhou City,122.2,0.0863,135,"1,056.99"
+Guilin City,526.5,2.7851,,"1,827.05"
+Districts under Shizuishan City,45.3,0.2262,99,334.31
+Wuzhou City,340.3,1.2588,,"1,064.82"
+Districts under Changchun City,365.9,0.4789,470,"3,818.44"
+Beihai City,169.3,0.3337,,856.01
+Districts under Changde City,140.1,0.251,87,"1,263.46"
+Fangchenggang City,94.2,0.6238,,588.94
+Districts under Fangchenggang City,55.9,0.2836,35,435.47
+Qinzhou City,402,1.2154,,854.96
+Districts under Tonghua City,44.3,0.0746,82,333.04
+Guigang City,543.2,1.0602,,805.4
+Districts under Kunming City,276.8,0.4615,407,"2,834.23"
+Yulin City,708,1.2824,,"1,341.75"
+Districts under Nantong City,212.8,0.214,190,"2,093.78"
+Baise City,412,3.6202,,917.92
+Districts under Tongliao City,85.8,0.364,87,731.99
+Hezhou City,238.1,1.1753,,448.38
+Districts under Rizhao City,132.1,0.2043,100,"1,226.11"
+Hechi City,419.9,3.3476,,601.39
+Districts under Benxi City,93.3,0.1518,109,827.06
+Laibin City,266.4,1.3411,,551.24
+Districts under Wuhu City,145,0.1491,160,"1,384.22"
+Chongzuo City,248.2,1.7331,,649.72
+Districts under Jingdezhen City,47.8,0.043,79,383.8
+Hainan province,916.34,,303.06,"3,500.72"
+Districts under Yangzhou City,231.8,0.2306,136,"2,432.28"
+Haikou City,165.3,0.2284,,"1,091.70"
+Districts under Liaoyuan City,47.2,0.0432,46,380.83
+Sanya City,58.6,0.1919,,402.26
+Districts under Xinjiang province,299.6,1.7311,481,"3,288.12"
+Chongqing,"3,375.20",8.2374,"1,231.44","14,262.60"
+Districts under Jining City,116.4,0.1644,186,"1,098.64"
+Sichuan province,"9,159.08",,"2,216.56","28,536.66"
+Districts under Zibo City,284.5,0.2989,262,"3,120.56"
+Chengdu City,"1,210.70",1.2121,,"10,056.59"
+Districts under Nanchang City,230.1,0.082,262,"2,449.93"
+Zigong City,330,0.4381,,"1,073.40"
+Districts under Chengdu City,581.6,0.2172,604,"7,332.65"
+Panzhihua City,111.9,0.7401,,870.85
+Districts under Yingtan City,23.7,0.0136,34,177.06
+Luzhou City,508.9,1.2236,,"1,259.73"
+Districts under Inner Mongolia province,690.9,2.4532,"1,013.00","9,053.48"
+Deyang City,392.5,0.5911,,"1,515.65"
+Districts under Ji'nan City,361,0.3303,383,"4,312.01"
+Mianyang City,548.8,2.0248,,"1,579.89"
+Districts under Dalian City,304.3,0.2567,396,"3,540.58"
+Guangyuan City,310.1,1.6311,,566.19
+Districts under Jiaxing City,86.4,0.0968,96,837.91
+Suining City,380.4,0.5325,,809.55
+Districts under Panzhihua City,68.4,0.2017,72,639.88
+Neijiang City,426,0.5385,,"1,156.77"
+Districts under Yueyang City,109.7,0.1413,93,"1,110.14"
+Leshan City,355.7,1.2723,,"1,207.59"
+Districts under Nanjing City,648.7,0.6587,734,"8,820.75"
+Nanchong City,759,1.2477,,"1,432.02"
+Districts under Songyuan City,56.9,0.125,59,523.93
+Meishan City,353,0.714,,944.89
+Districts under Shaoxing City,217.8,0.2965,192,"2,525.71"
+Yibin City,554.3,1.3271,,"1,443.81"
+Districts under Yulin City,55.5,0.7053,70,515.03
+Guang'an City,471.7,0.6341,,919.61
+Districts under Yichang City,128,0.4248,162,"1,365.00"
+Dazhou City,688.1,1.6588,,"1,347.83"
+Districts under Yingkou City,92.6,0.0702,110,937.3
+Yaan City,157.2,1.5046,,462.41
+Districts under Beijing,"1,333.00",1.2187,"1,386.00","21,019.13"
+Bazhong City,383.1,1.2293,,456.66
+Districts under Maanshan City,82.2,0.0733,92,823.35
+Ziyang City,507.3,0.796,,"1,195.60"
+Districts under Wenzhou City,152.5,0.1138,215,"1,699.70"
+Guizhou province,"4,325.49",,723.76,"9,266.39"
+Districts under Jinchang City,23.2,0.3019,40,190.52
+Guiyang City,382.9,0.8043,,"2,497.27"
+Districts under Weihai City,131.6,0.2606,190,"1,441.09"
+Liupanshui City,328.3,0.9914,42.5,"1,042.73"
+Zhongshan District,47.6,0.0467,39,343.66
+Zunyi City,787,3.0762,,"1,874.36"
+Districts under Zhangzhou City,58.5,0.0401,62,565.87
+Anshun City,290,0.9267,,520.06
+Districts under Hulunbeir City,36.7,0.162,114,332.4
+Yunnan province,"4,641.88",,977.04,"12,814.59"
+Districts under Heyuan City,30.7,0.0362,34,276.64
+Kunming City,550.5,2.1012,,"3,712.99"
+Districts under Shanghai,"1,370.90",0.5155,998.75,"23,292.03"
+Qujing City,646.5,2.8905,,"1,649.40"
+Districts under Zhoushan City,70.9,0.1034,61,743.54
+Yuxi City,216,1.5285,,"1,184.73"
+Districts under Beihai City,63.7,0.0957,73,669.06
+Baoshan City,258.8,1.9637,,500.98
+Districts under Xiangtan City,87.7,0.0658,80,973.87
+Zhaotong City,594.4,2.244,,670.34
+Districts under Tibet province,20.8,1.6164,126.34,182.46
+Lijiang City,121.2,2.1219,,261.84
+Districts under Hangzhou City,525.1,0.4876,495,"7,977.37"
+Simao City,253.8,4.5385,24.5,476.95
+Districts under Fuzhou City,197.4,0.1786,254,"2,570.32"
+Lincang City,237.8,2.362,,465.12
+Districts under Quanzhou City,106.4,0.0855,214,"1,259.71"
+Tibet province,322.58,,126.34,920.83
+Districts under Wuhai City,55.4,0.1754,63,601.02
+Shaanxi province,"3,940.59",,967.56,"17,689.94"
+Districts under Wuhan City,514.9,0.1738,553,"8,104.12"
+Xi'an City,815.3,1.0097,,"5,492.64"
+Districts under Qingdao City,370.5,0.3293,491,"5,527.65"
+Tongchuan City,84.1,0.3937,,325.36
+Districts under Jiujiang City,66.2,0.0599,103,744.77
+Baoji City,383.8,1.8117,,"1,642.90"
+Districts under Hefei City,245.4,0.1127,403,"3,430.76"
+Xianyang City,526.7,1.0189,,"2,077.34"
+Districts under Tianjin,832.8,0.7399,738,"14,290.92"
+Weinan City,561.4,1.3134,,"1,423.75"
+Districts under Yantai City,183.7,0.2738,316,"2,560.75"
+Yan'an City,234.3,3.7037,,"1,386.09"
+Districts under Huizhou City,141.7,0.2697,244,"1,913.80"
+Hanzhong City,384.1,2.7285,,991.05
+Districts under Jiayuguan City,24.1,0.2935,68,243.06
+Yulin City,373.8,4.3578,,"2,920.58"
+Districts under Cangzhou City,54.4,0.0183,68,641.21
+Ankang City,306.2,2.3536,,689.44
+Districts under Changsha City,303.5,0.191,336,"4,918.28"
+Shangluo City,251.7,1.9292,,576.27
+Districts under Longyan City,50.5,0.2678,50,609.18
+Gansu province,"2,734.33",,779.28,"6,836.82"
+Districts under Liuzhou City,117.6,0.1017,180,"1,646.73"
+Lanzhou City,374.7,1.3086,,"2,000.94"
+Districts under Zhenjiang City,103.4,0.1088,134,"1,440.38"
+Jiayuguan City,24.1,0.2935,,243.06
+Districts under Changzhou City,233.9,0.1862,204,"3,744.81"
+Jinchang City,47,0.8896,,256.1
+Districts under Paijin City,64.3,0.0251,73,842.75
+Baiyin City,177.9,2.1158,,447.64
+Districts under Xiamen City,203.4,0.1573,301,"3,273.58"
+Tianshui City,364.5,1.4277,,522.82
+Districts under Sanming City,28.3,0.1151,36,337.99
+Wuwei City,188.9,3.3238,,405.97
+Districts under Wuxi City,245.7,0.1644,328,"4,217.47"
+Zhangye City,129.7,4.1924,,361.78
+Districts under Tongling City,44.9,0.0355,69,593.08
+Pingliang City,233.7,1.117,,350.55
+Districts under Foshan City,385.6,0.3798,158,"7,441.60"
+Jiuquan City,111.2,19.3974,,610.55
+Districts under Yuxi City,43.7,0.1004,29,617.45
+Qingyang City,265.5,2.7119,,668.86
+Districts under Hohhot City,127.8,0.2065,230,"2,159.18"
+Dingxi City,301.4,1.9609,,290.16
+Districts under Zhuhai City,110.2,0.1724,124,"1,867.21"
+Longnan City,283.2,2.7839,,262.53
+Districts under Zhongshan City,156.1,0.1784,107,"2,823.01"
+Qinghai province,580.16,,165.84,"2,303.32"
+Districts under Suzhou City,337.5,0.4653,447,"7,086.92"
+Xining City,202.6,0.7649,113.73,"1,065.78"
+Districts under Ningbo City,229.6,0.2462,309,"4,589.30"
+Ningxia province,671.56,,441.31,"2,752.10"
+Districts under Guangzhou City,695,0.3843,"1,035.00","16,706.87"
+Yinchuan City,196,0.9025,,"1,388.62"
+Districts under Baotou City,147,0.2965,190,"3,100.48"
+Shizuishan City,76.5,0.531,,467.26
+Districts under Yunfu City,31.6,0.0763,98,608.3
+Wuzhong City,143.5,1.6757,,383.43
+Districts under Daqing City,135.5,0.5107,245,"3,465.31"
+Guyuan City,153.3,1.3047,,201.03
+Districts under Dongying City,85.2,0.3445,115,"2,036.91"
+Zhongwei City,122.2,1.7448,,297.57
+Districts under Karamay City,39,0.7735,69,847.6
+Xinjiang province,"2,322.55",,"1,118.40","9,273.46"
+Districts under Dongguan City,191.4,0.246,922,"5,881.32"
+Urumqi City,266.9,1.3788,,"2,461.47"
+Districts under Shenzhen City,332.2,0.1997,890,"16,001.82"
+Karamay City,39,0.7735,,847.67
+Districts under Erdos City,27.4,0.253,113,930.53
